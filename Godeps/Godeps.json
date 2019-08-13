@@ -1,0 +1,9 @@
+{
+	"ImportPath": "github.com/grokify/heroku-mongodb",
+	"GoVersion": "go1.11",
+	"GodepVersion": "v80",
+	"Packages": [
+		"./..."
+	],
+	"Deps": []
+}
