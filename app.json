@@ -1,0 +1,16 @@
+{
+    "name": "MongoDB",
+    "description": "A Free MongoDB",
+    "repository": "https://github.com/grokify/heroku-mongodb",
+    "website": "https://github.com/grokify/heroku-mongodb",
+    "addons": [
+        "mongolab:sandbox",
+        "papertrail:choklad"
+    ],
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "Free"
+        }
+    }
+}
